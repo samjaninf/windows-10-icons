@@ -10,14 +10,22 @@ Also, you may use them as [iconic webfont](https://icons8.github.io/windows-10-i
 * Feb 20, 2017 Smile icon added
 
 
-## Good Boy License
+## License
 
-We’ve released the icon pack under the [Good Boy License](https://icons8.com/good-boy-license/). We invented it. Please do _whatever your mom would approve of:_
+This icon pack is dual-licensed under both the **Good Boy License** and the **MIT License**. You may choose to use it under either license.
+
+### Good Boy License
+
+We've released the icon pack under the [Good Boy License](https://icons8.com/good-boy-license/). We invented it. Please do _whatever your mom would approve of:_
 * Download
 * Change
 * Fork.
 
 No tattoos!
+
+### MIT License
+
+Alternatively, you may use this icon pack under the terms of the MIT License. See [LICENSE.md](LICENSE.md) for the full license text.
 
 
 ## Author
