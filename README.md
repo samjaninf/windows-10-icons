@@ -26,7 +26,7 @@ No tattoos!
 Alternatively, you may use this icon pack under the terms of the MIT License. See [LICENSE.md](LICENSE.md) for the full license text.
 
 
-## More from Icons8
+## The full library
 
 This is one of 132 icon styles by [Icons8](https://icons8.com):
 
